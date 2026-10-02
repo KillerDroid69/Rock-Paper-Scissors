@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-A simple game of rock, paper and scissors. My first project on github.
+# Beginner github projects
+These are some beginner github projects that are created by me.
